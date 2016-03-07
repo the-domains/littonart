@@ -1,6 +1,6 @@
 name: Littonart
 favicon: null
-layout_spectrum: 0.11861397000029683
+layout_spectrum: 0.51247
 typography_spectrum: 0.39908016147091985
 title: littonart
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#060608'
+    - '#ffffff'
+    - '#b7b7b7'
+    - '#4e4d49'
+    - '#0ef8f5'
   brandStrength: 0.39211627491749823
   lightness: 0.04781355313025415
-  saturation: 0.6644637666177005
+  saturation: 0.625
   rhythmicContrast: 0.6768066801596433
 purpose: []
